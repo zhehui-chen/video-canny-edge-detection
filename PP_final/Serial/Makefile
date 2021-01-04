@@ -1,5 +1,5 @@
 CC = gcc
-CFLAG = -I../common
+CFLAG = -O3 -I../common
 LFLAG = -lm
 
 EXE = serial
